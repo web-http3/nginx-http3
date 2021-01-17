@@ -234,5 +234,5 @@ ARG VCS_REF
 
 LABEL org.label-schema.build-date=$BUILD_DATE \
   org.label-schema.vcs-ref=$VCS_REF \
-  org.label-schema.vcs-url="https://github.com/RanadeepPolavarapu/docker-nginx-http3.git"
+  org.label-schema.vcs-url="https://github.com/web-http3/nginx-http3.git"
 
